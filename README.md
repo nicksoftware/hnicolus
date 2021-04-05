@@ -7,7 +7,7 @@ I am a fullstack developer with Technical leadership skills and coding experienc
 <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2933/2933245.svg" width="30"> Technologies I use.
 </h3>
 
-![HTML5](https://img.shields.io/badge/-CShasrp-000000?style=flat&logo=CShasrp)
+![HTML5](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
