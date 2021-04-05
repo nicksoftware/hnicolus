@@ -7,6 +7,7 @@ I am a fullstack developer I enjoy Designing and Developing Software Application
 </h3>
 
 ![HTML5](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=C-Sharp)
+![HTML5](https://img.shields.io/badge/-XAMARIN-000000?style=flat&logo=xamarin)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
