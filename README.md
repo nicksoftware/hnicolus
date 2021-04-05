@@ -1,7 +1,6 @@
 # Hi, I'm Nicolas Maluleke 👋🏾 👩🏾‍💻<img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="50">
  
- 
-I am a fullstack developer with Technical leadership skills and coding experience  of over 3+ years in  Designing and Developing Software Applications.I also enjoy contributing to open source.
+I am a fullstack developer I enjoy Designing and Developing Software Applications.
 
 <h3>
 <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2933/2933245.svg" width="30"> Technologies I use.
@@ -28,5 +27,3 @@ For more details about me visit to  [https://www.nicksoftware.co.za](https://www
 <a href="mailto:nicolusmaluleke@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolusmaluleke@gmail.com" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/nicolas-maluleke-81a698191/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/hnicolus?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=amitpnk" alt="amitpnk" /> </a>
-
-- 👯 I’m looking to collaborate on any C# open source project
