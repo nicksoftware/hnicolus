@@ -3,7 +3,7 @@
 I am a fullstack developer I enjoy Designing and Developing Software Applications.
 
 <h3>
-<img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2933/2933245.svg" width="30"> Technologies I use.
+Technologies I use.
 </h3>
 
 For more details about me visit to  [https://www.nicksoftware.co.za](https://www.nicksoftware.co.za/)
