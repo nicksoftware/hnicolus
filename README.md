@@ -24,12 +24,14 @@ For more details about me visit to  [https://www.nicksoftware.co.za](https://www
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=zero1five)](https://github.com/hnicolus/zero1five)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=Tawkto.OrchardCore)](https://github.com/hnicolus/Tawkto.OrchardCore)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=Restream)](https://github.com/hnicolus/Restream)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=CodeClinic)](https://github.com/hnicolus/CodeClinic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=SortMyDownloadsService)](https://github.com/hnicolus/SortMyDownloadsService)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=memory-game)](https://github.com/hnicolus/memory-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=SuggestionBot)](https://github.com/hnicolus/SuggestionBot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=CodeClinic)](https://github.com/hnicolus/CodeClinic)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=invoice-kit)](https://github.com/hnicolus/invoice-kit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=Covid-Doctor)](https://github.com/hnicolus/Covid-Doctor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=SortMyDownloadsService)](https://github.com/hnicolus/SortMyDownloadsService)
+
 [![Nick's github stats](https://github-readme-stats.vercel.app/api?username=hnicolus&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnicolus&layout=compact)](https://github.com/hnicolus/github-readme-stats)
 
