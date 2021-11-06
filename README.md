@@ -6,7 +6,7 @@ I am a fullstack developer I enjoy Designing and Developing Software Application
 Technologies I use.
 </h3>
 
-For more details about me visit to  [https://www.nicksoftware.co.za](https://www.nicksoftware.co.za/)
+
 ![HTML5](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=C-Sharp)
 ![HTML5](https://img.shields.io/badge/-XAMARIN-000000?style=flat&logo=xamarin)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -19,6 +19,8 @@ For more details about me visit to  [https://www.nicksoftware.co.za](https://www
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM&logoColor=CB3837)
 ![Gulp](https://img.shields.io/badge/-Gulp-000000?style=flat&logo=Gulp&logoColor=CF4647)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
+
+For more details about me visit to  [https://www.nicksoftware.co.za](https://www.nicksoftware.co.za/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=Evento)](https://github.com/hnicolus/Evento)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=zero1five)](https://github.com/hnicolus/zero1five)
