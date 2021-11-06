@@ -22,9 +22,10 @@ For more details about me visit to  [https://www.nicksoftware.co.za](https://www
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=memory-game)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=SuggestionBot)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=SuggestionBot)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=SuggestionBot)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=CodeClinic)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=invoice-kit)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=Covid-Doctor)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=SortMyDownloadsService)](https://github.com/anuraghazra/github-readme-stats)
 [![Nick's github stats](https://github-readme-stats.vercel.app/api?username=hnicolus&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnicolus&layout=compact)](https://github.com/hnicolus/github-readme-stats)
 
