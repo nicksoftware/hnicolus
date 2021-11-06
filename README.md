@@ -20,6 +20,8 @@ For more details about me visit to  [https://www.nicksoftware.co.za](https://www
 ![Gulp](https://img.shields.io/badge/-Gulp-000000?style=flat&logo=Gulp&logoColor=CF4647)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=Tawkto.OrchardCore)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=Restream)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=memory-game)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=SuggestionBot)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=CodeClinic)](https://github.com/anuraghazra/github-readme-stats)
