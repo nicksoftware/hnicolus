@@ -6,6 +6,7 @@ I am a fullstack developer I enjoy Designing and Developing Software Application
 <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2933/2933245.svg" width="30"> Technologies I use.
 </h3>
 
+For more details about me visit to  [https://www.nicksoftware.co.za](https://www.nicksoftware.co.za/)
 ![HTML5](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=C-Sharp)
 ![HTML5](https://img.shields.io/badge/-XAMARIN-000000?style=flat&logo=xamarin)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -19,9 +20,15 @@ I am a fullstack developer I enjoy Designing and Developing Software Application
 ![Gulp](https://img.shields.io/badge/-Gulp-000000?style=flat&logo=Gulp&logoColor=CF4647)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
 
-For more details about me visit to  [https://www.nicksoftware.co.za](https://www.nicksoftware.co.za/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=memory-game)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=SuggestionBot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=SuggestionBot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnicolus&repo=SuggestionBot)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Nick's github stats](https://github-readme-stats.vercel.app/api?username=hnicolus&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnicolus&layout=compact)](https://github.com/hnicolus/github-readme-stats)
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnicolus&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
